@@ -5,7 +5,7 @@
         $email = $_POST['email'];
         $message = $_POST['message'];
         $from = 'contact-form'; 
-        $to = 'info@akanshconsulting.com'; 
+        $to = 'akanshconsulting@gmail.com'; 
         $subject = 'Message from Contact Demo ';
 
         $body ="From: $name\n E-Mail: $email\n Message:\n $message";
