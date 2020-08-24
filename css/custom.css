@@ -4,3 +4,10 @@
 .footer-logo a img {
   max-height: 50px;
 }
+
+.quote-area .quote_form .eapps-form-form>a {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
